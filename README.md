@@ -25,16 +25,20 @@ Users should be able to:
 
 ### Screenshot
 
-
 #### Desktop
 
+![image](https://user-images.githubusercontent.com/25336634/155053503-90aa7156-1848-4b72-a8cf-973871456067.png)
+
+
 #### Mobile
+
+![image](https://user-images.githubusercontent.com/25336634/155053561-b35ab42d-b65d-4b3f-8233-06eed63e0d1d.png)
 
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/RaPzoD1/advice-generator-solved)
+- Live Site URL: [Netlify](https://hardcore-poitras-907fea.netlify.app/)
 
 ## My process
 
